@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="Pt_BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        const preco = Number(prompt("Valor da compra: "))
+        const desc_vista = 10
+        const valor_desc = preco - (preco * ( desc_vista / 100 ))
+        const aprazo = preco / 3
+        alert(`Preço: ${preco.toFixed(2)}\nA vista: ${valor_desc.toFixed(2)}\nOu 3X de: ${aprazo.toFixed(2)}`)
+    </script>
+</body>
+</html>
