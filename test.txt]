@@ -1,0 +1,18 @@
+*Setar branch principal como MAIN:
+git config --global init.defaultBranch main
+
+
+
+<!DOCTYPE html>
+<html lang="Pt_BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+
+    </script>
+</body>
+</html>
