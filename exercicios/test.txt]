@@ -1,0 +1,2 @@
+*Setar branch principal como MAIN:
+git config --global init.defaultBranch main
