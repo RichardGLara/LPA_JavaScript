@@ -1,6 +1,9 @@
 *Setar branch principal como MAIN:
 git config --global init.defaultBranch main
 
+exibir imagem no terminal
+npm install --save terminal-image
+
 
 
 <!DOCTYPE html>
