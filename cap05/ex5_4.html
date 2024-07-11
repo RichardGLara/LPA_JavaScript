@@ -11,7 +11,7 @@
         alert("Digite 0 para sair")
         do {
         const num = Number(prompt("Numero: "))
-        if (num == 0 || isNaN(num)) {
+        if (num == 0 || isNaN(num)) {                   //NaN significa "Not a Number" e se não for numero o resultado é TRUE
             const sair = confirm("confirma a saída???")
             if (sair) {
                 break 
