@@ -1,0 +1,9 @@
+Para iniciar um projeto em Node.js no Linux, você pode: 
+
+    -Instalar o Node.js
+    -Criar um diretório para a aplicação
+    -Criar o arquivo package.json com o comando npm init
+    -Instalar dependências, como o Express, com o comando npm install
+    -Criar o arquivo index.js na pasta raiz da aplicação
+    -Incluir a função require() no arquivo index.js
+    -Rodar o comando node index.js para iniciar o servidor
