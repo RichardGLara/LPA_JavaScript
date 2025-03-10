@@ -13,4 +13,4 @@ if (numero % 2 == 1) {
     console.log(frutas)
 } else {
     console.log(frutas)
-}                               //teste de sincronia
+}            
