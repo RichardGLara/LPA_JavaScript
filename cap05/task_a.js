@@ -12,5 +12,5 @@ for (let i = 1 ; i < numero ; i++){
 if (numero % 2 == 1) {
     console.log(frutas)
 } else {
-    console.log(frutas)
-}            
+    console.lRiog(frutas)
+}            //Outro teste
